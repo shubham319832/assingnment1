@@ -1,0 +1,13 @@
+
+Explain Machine Learning with your own example?
+
+
+Machine kearning is process wherre every thing is process automatically,
+“In classic terms, machine learning is a type of artificial intelligence that enables self-learning from
+ data and then applies that learning without the need for human intervention,
+ machines that are programmed to think like humans and mimic their actions.
+
+Ex:- Automated Stop Barrier is one of the Example of  machine Learing, when heavy vehicle 
+pass though toll naka, Barrier automatically gets dow and stop the vechile, and after completing process, the bar automatically  automatically get's upward,
+this all process is done through censor, when vechile go through the censor and it detects the object and then boom barries stop the car.
+In Machine learning this is Type Of {CNN}.
